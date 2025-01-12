@@ -3,3 +3,13 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
 #contracts/ecosystem-parameters.clar,4/9/49ca5d14ed8972f5c3998f53a0acda0746a9c55e
+R
+"tests/ecosystem-parameters.test.ts,4/2/428b6832c0b636cc8def050c511f11ffecac0b84
+S
+#contracts/species-interactions.clar,f/d/fd9933b1be2d0cea00e84455663f7e1e6e69afc7
+R
+"tests/species-interactions.test.ts,1/2/1234f2a4e68f2548aa50269f292066e3f3ba781a
+S
+#contracts/cross-planet-effects.clar,6/3/63a22e926ec966e6069c0bee1d4d99a2500776d1
+R
+"tests/cross-planet-effects.test.ts,0/6/06979c55b82bddc6c6c1008df8c1c9c601ccc15f
