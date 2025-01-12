@@ -7,3 +7,5 @@ R
 "tests/ecosystem-parameters.test.ts,4/2/428b6832c0b636cc8def050c511f11ffecac0b84
 S
 #contracts/species-interactions.clar,f/d/fd9933b1be2d0cea00e84455663f7e1e6e69afc7
+R
+"tests/species-interactions.test.ts,1/2/1234f2a4e68f2548aa50269f292066e3f3ba781a
