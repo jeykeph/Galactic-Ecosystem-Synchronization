@@ -11,3 +11,5 @@ R
 "tests/species-interactions.test.ts,1/2/1234f2a4e68f2548aa50269f292066e3f3ba781a
 S
 #contracts/cross-planet-effects.clar,6/3/63a22e926ec966e6069c0bee1d4d99a2500776d1
+R
+"tests/cross-planet-effects.test.ts,0/6/06979c55b82bddc6c6c1008df8c1c9c601ccc15f
