@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cross-planet-effects]
+path = 'contracts/cross-planet-effects.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.ecosystem-parameters]
 path = 'contracts/ecosystem-parameters.clar'
 clarity_version = 2

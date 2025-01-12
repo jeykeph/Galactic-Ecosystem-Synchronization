@@ -9,3 +9,5 @@ S
 #contracts/species-interactions.clar,f/d/fd9933b1be2d0cea00e84455663f7e1e6e69afc7
 R
 "tests/species-interactions.test.ts,1/2/1234f2a4e68f2548aa50269f292066e3f3ba781a
+S
+#contracts/cross-planet-effects.clar,6/3/63a22e926ec966e6069c0bee1d4d99a2500776d1
